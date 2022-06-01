@@ -9,7 +9,7 @@ class GlobalData {
   int? active;
   int? critical;
   int? casesPerOneMillion;
-  double? deathsPerOneMillion;
+  int? deathsPerOneMillion;
   int? tests;
   double? testsPerOneMillion;
   int? population;
